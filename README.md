@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lachikimirky
-- 👀 I’m interested in ... no soy gringa.
-- 🌱 I’m currently learning ... a
-- 💞️ I’m looking to collaborate on ...no tengo idea
-- 📫 How to reach me ... no lo c
+- 👀 I’m interested in ... solo quiero jugar x,d
+- 🌱 I’m currently learning ...  no c
+- 💞️ I’m looking to collaborate on ...con nadie(?
+- 📫 How to reach me ... æ
 
 <!---
 lachikimirky/lachikimirky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
